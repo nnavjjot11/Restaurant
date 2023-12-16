@@ -1,0 +1,7 @@
+admin-
+email- navjot10@gmail.com
+password- 3000
+
+User-
+email- james15@gmail.com
+password- 1000
